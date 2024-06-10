@@ -1,4 +1,7 @@
-## Hi there 👋
+## Boas vindas ao meu perfil
+Estou estudando no Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 <!--
 **Davi2024ti/Davi2024ti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
